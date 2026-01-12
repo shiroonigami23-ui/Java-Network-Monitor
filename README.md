@@ -1,3 +1,5 @@
+![Java Network Monitor Banner](./visual/banner.png)
+
 
 # Java Network Monitor
 
